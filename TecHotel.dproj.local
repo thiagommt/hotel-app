@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/09/23 19:06:30.000.224,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/09/23 19:40:00.000.773,C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.fmx=C:\Users\User\Documents\Projetos\TecHotel\Forms\FrmLogin.fmx</Transaction>
+    <Transaction>2020/09/23 19:40:00.000.773,C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\User\Documents\Projetos\TecHotel\Forms\FrmLogin.pas</Transaction>
+    <Transaction>2020/09/23 19:49:11.000.936,C:\Users\User\Documents\Projetos\TecHotel\Forms\FrmLogin.fmx=C:\Users\User\Documents\Projetos\TecHotel\Forms\Login.fmx</Transaction>
+    <Transaction>2020/09/23 19:49:11.000.936,C:\Users\User\Documents\Projetos\TecHotel\Forms\FrmLogin.pas=C:\Users\User\Documents\Projetos\TecHotel\Forms\Login.pas</Transaction>
+    <Transaction>2020/09/23 20:02:22.000.996,C:\Users\User\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\User\Documents\Projetos\TecHotel\TecHotel.dproj</Transaction>
+    <Transaction>2020/09/24 19:49:16.000.765,=C:\Users\User\Documents\Projetos\TecHotel\Unit1.pas</Transaction>
+    <Transaction>2020/09/24 20:10:08.000.878,C:\Users\User\Documents\Projetos\TecHotel\Forms\Principal.fmx=C:\Users\User\Documents\Projetos\TecHotel\Unit1.fmx</Transaction>
+    <Transaction>2020/09/24 20:10:08.000.878,C:\Users\User\Documents\Projetos\TecHotel\Forms\Principal.pas=C:\Users\User\Documents\Projetos\TecHotel\Unit1.pas</Transaction>
+    <Transaction>2020/09/26 14:35:54.000.593,=C:\Users\User\Documents\Projetos\TecHotel\FMX.FontGlyphs.Android.pas</Transaction>
+    <Transaction>2020/09/26 18:16:37.000.292,=C:\Users\User\Documents\Projetos\TecHotel\Unit1.pas</Transaction>
+    <Transaction>2020/09/26 18:22:18.000.752,C:\Users\User\Documents\Projetos\TecHotel\Forms\Reserva.fmx=C:\Users\User\Documents\Projetos\TecHotel\Unit1.fmx</Transaction>
+    <Transaction>2020/09/26 18:22:18.000.752,C:\Users\User\Documents\Projetos\TecHotel\Forms\Reserva.pas=C:\Users\User\Documents\Projetos\TecHotel\Unit1.pas</Transaction>
+    <Transaction>2020/09/26 18:37:16.000.186,C:\Users\User\Documents\Projetos\TecHotel\FMX.FontGlyphs.Android.pas=</Transaction>
+    <Transaction>2020/09/29 16:38:17.000.601,=C:\Users\User\Documents\Projetos\TecHotel\Lib\uFormat.pas</Transaction>
+    <Transaction>2020/09/29 16:39:36.000.963,C:\Users\User\Documents\Projetos\TecHotel\Lib\FormatValues.pas=C:\Users\User\Documents\Projetos\TecHotel\Lib\uFormat.pas</Transaction>
+    <Transaction>2020/09/30 20:10:01.000.393,=C:\Users\User\Documents\Projetos\TecHotel\Lib\RequestApi.pas</Transaction>
+    <Transaction>2020/09/30 20:41:22.000.653,C:\Users\User\Documents\Projetos\TecHotel\Lib\RequestApi.pas=</Transaction>
+    <Transaction>2020/10/02 20:22:34.000.723,C:\Users\User\Documents\Projetos\TecHotel\Forms\Reserva.fmx=C:\Users\User\Documents\Projetos\TecHotel\Forms\NovaReserva.fmx</Transaction>
+    <Transaction>2020/10/02 20:22:34.000.723,C:\Users\User\Documents\Projetos\TecHotel\Forms\Reserva.pas=C:\Users\User\Documents\Projetos\TecHotel\Forms\NovaReserva.pas</Transaction>
+    <Transaction>2020/10/03 15:36:41.000.012,=C:\Users\User\Documents\Projetos\TecHotel\Lib\Lib.FormatValues.pas</Transaction>
+    <Transaction>2020/10/03 15:37:03.000.969,=C:\Users\User\Documents\Projetos\TecHotel\Lib\Lib.RequestApi.pas</Transaction>
+    <Transaction>2020/10/03 16:13:30.000.687,C:\Users\User\Documents\Projetos\TecHotel\Lib\Lib.RequestApi.pas=</Transaction>
+    <Transaction>2020/10/03 17:55:03.000.619,=C:\Users\User\Documents\Projetos\TecHotel\Unit1.pas</Transaction>
+    <Transaction>2020/10/03 18:03:21.000.253,C:\Users\User\Documents\Projetos\TecHotel\Forms\Reserva.fmx=C:\Users\User\Documents\Projetos\TecHotel\Unit1.fmx</Transaction>
+    <Transaction>2020/10/03 18:03:21.000.253,C:\Users\User\Documents\Projetos\TecHotel\Forms\Reserva.pas=C:\Users\User\Documents\Projetos\TecHotel\Unit1.pas</Transaction>
+    <Transaction>2020/10/04 17:07:42.000.585,=C:\Users\User\Documents\Projetos\TecHotel\Lib\Lib.Notificacao.pas</Transaction>
+    <Transaction>2020/10/12 11:58:35.000.098,=C:\Users\User\Documents\Projetos\TecHotel\Unit1.pas</Transaction>
+    <Transaction>2020/10/12 11:59:14.000.567,C:\Users\User\Documents\Projetos\TecHotel\Unit1.pas=C:\Users\User\Documents\Projetos\TecHotel\Forms\Splash.pas</Transaction>
+    <Transaction>2020/10/12 11:59:14.000.567,C:\Users\User\Documents\Projetos\TecHotel\Unit1.fmx=C:\Users\User\Documents\Projetos\TecHotel\Forms\Splash.fmx</Transaction>
+    <Transaction>2020/10/12 16:58:17.000.280,C:\Users\User\Documents\Projetos\TecHotel\Forms\Splash.pas=</Transaction>
+    <Transaction>2020/10/18 17:20:01.000.162,=C:\Users\User\Documents\Projetos\TecHotel\Unit1.pas</Transaction>
+    <Transaction>2020/10/18 17:22:53.000.959,C:\Users\User\Documents\Projetos\TecHotel\Unit1.pas=C:\Users\User\Documents\Projetos\TecHotel\Forms\Splash.pas</Transaction>
+    <Transaction>2020/10/18 17:22:53.000.959,C:\Users\User\Documents\Projetos\TecHotel\Unit1.fmx=C:\Users\User\Documents\Projetos\TecHotel\Forms\Splash.fmx</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile Android="107ce5a5"/>
+	</ActiveMobileDevice>
+</BorlandProject>
